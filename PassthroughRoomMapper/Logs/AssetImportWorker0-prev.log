@@ -1,0 +1,312 @@
+Using pre-set license
+Built from '2020.3/staging' branch; Version is '2020.3.5f1 (8095aa901b9b) revision 8426922'; Using compiler version '192528614'; Build Type 'Release'
+OS: 'Windows 10 Pro; OS build 19042.1348; Version 2009; 64bit' Language: 'en' Physical Memory: 65337 MB
+BatchMode: 1, IsHumanControllingUs: 0, StartBugReporterOnCrash: 0, Is64bit: 1, IsPro: 0
+
+ COMMAND LINE ARGUMENTS:
+C:\Program Files\Unity\Hub\Editor\2020.3.5f1\Editor\Unity.exe
+-adb2
+-batchMode
+-noUpm
+-name
+AssetImportWorker0
+-projectPath
+E:/UnityProjects/PassthroughRoomMapperQuest2/PassthroughRoomMapper
+-logFile
+Logs/AssetImportWorker0.log
+-srvPort
+59590
+Successfully changed project path to: E:/UnityProjects/PassthroughRoomMapperQuest2/PassthroughRoomMapper
+E:/UnityProjects/PassthroughRoomMapperQuest2/PassthroughRoomMapper
+Using Asset Import Pipeline V2.
+Refreshing native plugins compatible for Editor in 44.04 ms, found 4 plugins.
+Preloading 1 native plugins for Editor in 0.63 ms.
+Initialize engine version: 2020.3.5f1 (8095aa901b9b)
+[Subsystems] Discovering subsystems at path C:/Program Files/Unity/Hub/Editor/2020.3.5f1/Editor/Data/Resources/UnitySubsystems
+[Subsystems] Discovering subsystems at path E:/UnityProjects/PassthroughRoomMapperQuest2/PassthroughRoomMapper/Assets
+GfxDevice: creating device client; threaded=0
+Direct3D:
+    Version:  Direct3D 11.0 [level 11.1]
+    Renderer: NVIDIA GeForce RTX 2080 (ID=0x1ed0)
+    Vendor:   
+    VRAM:     8010 MB
+    Driver:   30.0.14.7135
+Shader 'Oculus/OVRMRCameraFrameLit': fallback shader 'Alpha-Diffuse' not found
+Initialize mono
+Mono path[0] = 'C:/Program Files/Unity/Hub/Editor/2020.3.5f1/Editor/Data/Managed'
+Mono path[1] = 'C:/Program Files/Unity/Hub/Editor/2020.3.5f1/Editor/Data/MonoBleedingEdge/lib/mono/unityjit'
+Mono config path = 'C:/Program Files/Unity/Hub/Editor/2020.3.5f1/Editor/Data/MonoBleedingEdge/etc'
+Using monoOptions --debugger-agent=transport=dt_socket,embedding=1,server=y,suspend=n,address=127.0.0.1:56000
+Begin MonoManager ReloadAssembly
+Registering precompiled unity dll's ...
+Register platform support module: C:/Program Files/Unity/Hub/Editor/2020.3.5f1/Editor/Data/PlaybackEngines/WindowsStandaloneSupport/UnityEditor.WindowsStandalone.Extensions.dll
+Registered in 0.001515 seconds.
+Native extension for WindowsStandalone target not found
+Refreshing native plugins compatible for Editor in 39.36 ms, found 4 plugins.
+Preloading 1 native plugins for Editor in 0.03 ms.
+Mono: successfully reloaded assembly
+- Completed reload, in  1.289 seconds
+Platform modules already initialized, skipping
+Registering precompiled user dll's ...
+Registered in 0.001344 seconds.
+Begin MonoManager ReloadAssembly
+Native extension for WindowsStandalone target not found
+Refreshing native plugins compatible for Editor in 0.65 ms, found 4 plugins.
+Preloading 1 native plugins for Editor in 0.05 ms.
+[XR] OculusXRPlugin: registering subsystems
+[XR] Unable to register display lifecyle provider: [1]
+[XR] Oculus Input lifecycle provider registered.
+[XR] Unable to register input lifecyle provider: [1]
+[XR] OVRP version 1.66.0
+Mono: successfully reloaded assembly
+- Completed reload, in  0.757 seconds
+Platform modules already initialized, skipping
+========================================================================
+Worker process is ready to serve import requests
+Shader 'Oculus/OVRMRCameraFrameLit': fallback shader 'Alpha-Diffuse' not found
+Launched and connected shader compiler UnityShaderCompiler.exe after 0.04 seconds
+Refreshing native plugins compatible for Editor in 0.61 ms, found 4 plugins.
+Preloading 1 native plugins for Editor in 0.04 ms.
+Unloading 1999 Unused Serialized files (Serialized files now loaded: 0)
+System memory in use before: 97.1 MB.
+System memory in use after: 97.2 MB.
+
+Unloading 36 unused Assets to reduce memory usage. Loaded Objects now: 2421.
+Total: 1.836700 ms (FindLiveObjects: 0.211600 ms CreateObjectMapping: 0.074100 ms MarkObjects: 1.480800 ms  DeleteObjects: 0.069100 ms)
+
+========================================================================
+Received Import Request.
+  path: Assets/Scenes
+  artifactKey: Guid(2c5533369a8865d4aa4d7445da44b407) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Scenes using Guid(2c5533369a8865d4aa4d7445da44b407) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '2baf7ce11f1791d9517ce9bb9ae36bfe') in 0.007307 seconds
+  Import took 0.009890 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000265 seconds.
+  path: Assets/Scenes/SampleScene.unity
+  artifactKey: Guid(9fc0d4010bbf28b4594072e72b8655ab) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Scenes/SampleScene.unity using Guid(9fc0d4010bbf28b4594072e72b8655ab) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '02a2e40e81d35f9ada7821be9923d9eb') in 0.011894 seconds
+  Import took 0.014325 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 32.932404 seconds.
+  path: Assets/Scenes/Caleb'sRoomMapper.unity
+  artifactKey: Guid(74479ab703c9f28489324ce4c24ddb75) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Scenes/Caleb'sRoomMapper.unity using Guid(74479ab703c9f28489324ce4c24ddb75) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '4a0f4bd6eb2aa8cbf5cab73ab3b7ef5a') in 0.005845 seconds
+  Import took 0.008379 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 33.668344 seconds.
+  path: Assets/Oculus/OculusProjectConfig.asset
+  artifactKey: Guid(8b91cef655025bd4aaf7d3087f53b781) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Oculus/OculusProjectConfig.asset using Guid(8b91cef655025bd4aaf7d3087f53b781) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '14a162419c746e0225de39844561dff1') in 0.016475 seconds
+  Import took 0.019046 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 4.897903 seconds.
+  path: Assets/Oculus/SampleFramework/Usage/OVROverlay/Prefabs/OverlayUICamera.prefab
+  artifactKey: Guid(86b26048b3afda744b007257161860dc) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Oculus/SampleFramework/Usage/OVROverlay/Prefabs/OverlayUICamera.prefab using Guid(86b26048b3afda744b007257161860dc) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'f676fcd743259dad528d5d17a65abb53') in 0.016317 seconds
+  Import took 0.019015 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000266 seconds.
+  path: Assets/Oculus/VR/Prefabs/OVRCameraRig.prefab
+  artifactKey: Guid(126d619cf4daa52469682f85c1378b4a) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Oculus/VR/Prefabs/OVRCameraRig.prefab using Guid(126d619cf4daa52469682f85c1378b4a) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'c84eab25b786f895b79f0b7ccecd4e28') in 0.008585 seconds
+  Import took 0.011042 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 4.523282 seconds.
+  path: Assets/Oculus/VR/Scripts/Composition/OVRCameraComposition.cs
+  artifactKey: Guid(70818bad1fe6859439b190a61dfb6eb8) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Oculus/VR/Scripts/Composition/OVRCameraComposition.cs using Guid(70818bad1fe6859439b190a61dfb6eb8) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'c8d76090a5856b7be8612322dacde6ec') in 0.011867 seconds
+  Import took 0.014369 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.013264 seconds.
+  path: Assets/Oculus/VR/Scripts/Composition/OVRCameraComposition.cs
+  artifactKey: Guid(70818bad1fe6859439b190a61dfb6eb8) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Oculus/VR/Scripts/Composition/OVRCameraComposition.cs using Guid(70818bad1fe6859439b190a61dfb6eb8) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'c8d76090a5856b7be8612322dacde6ec') in 0.001660 seconds
+  Import took 0.004452 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 108.751230 seconds.
+  path: Assets/Pixelplacement/OculusQuest
+  artifactKey: Guid(727be1852db3caf4e86b38e134429de0) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Pixelplacement/OculusQuest using Guid(727be1852db3caf4e86b38e134429de0) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '63b9fd8f430962905bec80dcbc3e059f') in 0.005526 seconds
+  Import took 0.008454 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 2.224859 seconds.
+  path: Assets/Pixelplacement/OculusQuest/Prefabs
+  artifactKey: Guid(68bdff089d554b347990abb7a657a5e5) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Pixelplacement/OculusQuest/Prefabs using Guid(68bdff089d554b347990abb7a657a5e5) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'edb0db4ae1ae6a202f122fa685f97ba4') in 0.005290 seconds
+  Import took 0.007740 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.082582 seconds.
+  path: Assets/Pixelplacement/OculusQuest/Prefabs/Arrow.prefab
+  artifactKey: Guid(b9ca8258424384b48aa2b09e38bb57b8) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Pixelplacement/OculusQuest/Prefabs/Arrow.prefab using Guid(b9ca8258424384b48aa2b09e38bb57b8) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'aba5aa2b1aad779be8ced10736f214d8') in 0.069280 seconds
+  Import took 0.071967 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000219 seconds.
+  path: Assets/Pixelplacement/OculusQuest/Prefabs/RoomMapper.prefab
+  artifactKey: Guid(2f33af4a10f1762498dc3a4cf722c18a) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Pixelplacement/OculusQuest/Prefabs/RoomMapper.prefab using Guid(2f33af4a10f1762498dc3a4cf722c18a) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'afb433448d4ccf409432286f11145add') in 0.082303 seconds
+  Import took 0.085221 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 23.188619 seconds.
+  path: Assets/Pixelplacement/OculusQuest/Prefabs/RoomMapper.prefab
+  artifactKey: Guid(2f33af4a10f1762498dc3a4cf722c18a) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Pixelplacement/OculusQuest/Prefabs/RoomMapper.prefab using Guid(2f33af4a10f1762498dc3a4cf722c18a) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'ef0f11ce5b3a843aa819f9cbd9a7b4cd') in 0.025253 seconds
+  Import took 0.028203 seconds .
+
+========================================================================
+Received Prepare
+Shader 'Oculus/OVRMRCameraFrameLit': fallback shader 'Alpha-Diffuse' not found
+Refreshing native plugins compatible for Editor in 4.17 ms, found 4 plugins.
+Preloading 1 native plugins for Editor in 0.03 ms.
+Unloading 28 Unused Serialized files (Serialized files now loaded: 0)
+System memory in use before: 58.3 MB.
+System memory in use after: 58.4 MB.
+
+Unloading 28 unused Assets to reduce memory usage. Loaded Objects now: 2428.
+Total: 2.616200 ms (FindLiveObjects: 0.280300 ms CreateObjectMapping: 0.108700 ms MarkObjects: 2.168300 ms  DeleteObjects: 0.057800 ms)
+
+========================================================================
+Received Prepare
+Shader 'Oculus/OVRMRCameraFrameLit': fallback shader 'Alpha-Diffuse' not found
+Refreshing native plugins compatible for Editor in 4.44 ms, found 4 plugins.
+Preloading 1 native plugins for Editor in 0.03 ms.
+Unloading 41 Unused Serialized files (Serialized files now loaded: 0)
+System memory in use before: 60.3 MB.
+System memory in use after: 59.7 MB.
+
+Unloading 41 unused Assets to reduce memory usage. Loaded Objects now: 2428.
+Total: 2.975500 ms (FindLiveObjects: 0.276100 ms CreateObjectMapping: 0.089100 ms MarkObjects: 2.335100 ms  DeleteObjects: 0.273800 ms)
+
+========================================================================
+Received Import Request.
+  Time since last request: 1436.659320 seconds.
+  path: Assets/Pixelplacement/OculusQuest/Demos/RoomMapper
+  artifactKey: Guid(337886f39e04ed94c8a7cff71fd33a09) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Pixelplacement/OculusQuest/Demos/RoomMapper using Guid(337886f39e04ed94c8a7cff71fd33a09) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '9c24d58987b2a23496bd6d7c60830628') in 0.005303 seconds
+  Import took 0.008512 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 27.565422 seconds.
+  path: Assets/Pixelplacement/Materials/Mask.mat
+  artifactKey: Guid(ffc8ecd3c5e104e4ea5f9fb6c77d6769) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Pixelplacement/Materials/Mask.mat using Guid(ffc8ecd3c5e104e4ea5f9fb6c77d6769) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '82dd33940bb92fd4dbbdb11503f0b3e9') in 0.022970 seconds
+  Import took 0.025621 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000243 seconds.
+  path: Assets/Pixelplacement/Materials/ShadowCatcherWithOcclusion.mat
+  artifactKey: Guid(d2606fd8f137b5c4ba39ec224a2fb9b3) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Pixelplacement/Materials/ShadowCatcherWithOcclusion.mat using Guid(d2606fd8f137b5c4ba39ec224a2fb9b3) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'd8b21babcbc441348e2969b8c84b0dbf') in 0.026054 seconds
+  Import took 0.028357 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000255 seconds.
+  path: Assets/Pixelplacement/Materials/StandardShaderMasked.mat
+  artifactKey: Guid(3bc423a943e307149b4e30ab8cad7a57) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Pixelplacement/Materials/StandardShaderMasked.mat using Guid(3bc423a943e307149b4e30ab8cad7a57) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'ec6f8e7259e3148cb979ec5c801101e5') in 0.124881 seconds
+  Import took 0.127314 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000249 seconds.
+  path: Assets/Pixelplacement/Materials/StandardShaderOccluded.mat
+  artifactKey: Guid(a95677b89e8292c41a8ac6b01ce2ad65) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Pixelplacement/Materials/StandardShaderOccluded.mat using Guid(a95677b89e8292c41a8ac6b01ce2ad65) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '9b8c561e615eacd61560f05d15299ce5') in 0.100152 seconds
+  Import took 0.102521 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000218 seconds.
+  path: Assets/Pixelplacement/Materials/ShadowCatcherWithoutOcclusion.mat
+  artifactKey: Guid(023812a01394a8943aa778453d40d424) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Pixelplacement/Materials/ShadowCatcherWithoutOcclusion.mat using Guid(023812a01394a8943aa778453d40d424) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'da1b71505dd685790fc748f90c11c265') in 0.023740 seconds
+  Import took 0.026188 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 3.131570 seconds.
+  path: Assets/Pixelplacement/OculusQuest/Demos
+  artifactKey: Guid(182a72809c6d5d444b3d8475b269a4f7) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Pixelplacement/OculusQuest/Demos using Guid(182a72809c6d5d444b3d8475b269a4f7) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'b58b9b875da2c62466c1528f51f621f7') in 0.004566 seconds
+  Import took 0.007164 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 3.398395 seconds.
+  path: Assets/Pixelplacement/OculusQuest/Demos/RoomMapper/Scenes
+  artifactKey: Guid(81c74aea815a2b247a91663d70da3555) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Pixelplacement/OculusQuest/Demos/RoomMapper/Scenes using Guid(81c74aea815a2b247a91663d70da3555) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '889e75096cc2abd72f396118a58aeb4d') in 0.004382 seconds
+  Import took 0.006961 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 1.057369 seconds.
+  path: Assets/Pixelplacement/OculusQuest/Demos/RoomMapper/Scenes/RoomMapper.unity
+  artifactKey: Guid(609850d30da3bd04db3dbc8b800b0137) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Pixelplacement/OculusQuest/Demos/RoomMapper/Scenes/RoomMapper.unity using Guid(609850d30da3bd04db3dbc8b800b0137) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '3d84733c641d1903fd3acfa6fb320bd4') in 0.004730 seconds
+  Import took 0.007322 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 14.171848 seconds.
+  path: Assets/Scenes/Caleb'sRoomMapper.unity
+  artifactKey: Guid(74479ab703c9f28489324ce4c24ddb75) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Scenes/Caleb'sRoomMapper.unity using Guid(74479ab703c9f28489324ce4c24ddb75) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'de85522c3564e8ef48eabcd3e11571f1') in 0.004820 seconds
+  Import took 0.007638 seconds .
+
+========================================================================
+Received Prepare
+Shader 'Oculus/OVRMRCameraFrameLit': fallback shader 'Alpha-Diffuse' not found
+Refreshing native plugins compatible for Editor in 4.23 ms, found 4 plugins.
+Preloading 1 native plugins for Editor in 0.03 ms.
+Unloading 41 Unused Serialized files (Serialized files now loaded: 0)
+System memory in use before: 60.6 MB.
+System memory in use after: 60.1 MB.
+
+Unloading 41 unused Assets to reduce memory usage. Loaded Objects now: 2461.
+Total: 2.809000 ms (FindLiveObjects: 0.243800 ms CreateObjectMapping: 0.089700 ms MarkObjects: 2.194900 ms  DeleteObjects: 0.279700 ms)
+
+========================================================================
+Received Import Request.
+  Time since last request: 1190.474158 seconds.
+  path: Assets/Scenes/Caleb'sRoomMapper.unity
+  artifactKey: Guid(74479ab703c9f28489324ce4c24ddb75) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Scenes/Caleb'sRoomMapper.unity using Guid(74479ab703c9f28489324ce4c24ddb75) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '701087ce41e357f4b031469f590f898a') in 0.005684 seconds
+  Import took 0.008914 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000712 seconds.
+  path: Assets/Scenes/Caleb'sRoomMapper.unity
+  artifactKey: Guid(74479ab703c9f28489324ce4c24ddb75) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Scenes/Caleb'sRoomMapper.unity using Guid(74479ab703c9f28489324ce4c24ddb75) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '701087ce41e357f4b031469f590f898a') in 0.001689 seconds
+  Import took 0.004144 seconds .
+
+AssetImportWorkerClient::OnTransportError - code=2 error=End of file
