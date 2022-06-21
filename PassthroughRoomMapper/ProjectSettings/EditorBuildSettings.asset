@@ -4,7 +4,10 @@
 EditorBuildSettings:
   m_ObjectHideFlags: 0
   serializedVersion: 2
-  m_Scenes: []
+  m_Scenes:
+  - enabled: 1
+    path: Assets/Scenes/Caleb'sRoomMapper.unity
+    guid: 74479ab703c9f28489324ce4c24ddb75
   m_configObjects:
     Unity.XR.Oculus.Settings: {fileID: 11400000, guid: ec1aac95068139548a2d02f79976c2c5, type: 2}
     com.unity.xr.management.loader_settings: {fileID: 11400000, guid: 152811688c0ca6943b28d35ed96cf32e, type: 2}
